@@ -1,5 +1,5 @@
 **CognixAi**
-et Cognix 🤖– An AI Assistant for Smart Automation! 
+ 🤖– An AI Assistant for Smart Automation! 
 I’m excited to introduce Cognix, a personal AI assistant chatbot built using Python! Designed to enhance productivity and streamline tasks, Cognix is packed with powerful capabilities:
 
 💠 What Cognix Can Do:

@@ -1,0 +1,12 @@
+Object-Oriented Programming (OOP) is a programming paradigm that is based on the concept of "objects", which can contain data and code. Java is an object-oriented programming language that supports the principles of OOP.
+
+The main concepts of OOP in Java are:
+
+1. Classes: A class is a blueprint or template for creating objects. It defines the properties (attributes) and methods (functions) that the objects created from it will have.
+2. Objects: An object is an instance of a class. It has its own state and behavior, which are defined by the class.
+3. Encapsulation: Encapsulation is the practice of hiding the internal details of an object from the outside world. It is achieved by making the properties of a class private and providing public methods to access and modify them.
+4. Inheritance: Inheritance is the process of creating a new class based on an existing class. The new class, called the subclass, inherits the properties and methods of the existing class, called the superclass.
+5. Polymorphism: Polymorphism is the ability of an object to take on many forms. It is achieved in Java through method overloading (multiple methods with the same name but different parameters) and method overriding (a subclass providing a different implementation of a method inherited from the superclass).
+6. Abstraction: Abstraction is the process of hiding the complexity of an object and exposing only the necessary details. It is achieved in Java through the use of abstract classes and interfaces.
+
+These concepts allow for the creation of modular, reusable and maintainable code in Java.

@@ -1,0 +1,44 @@
+Hello Meghana,
+
+Sure, I can help you write a Python program that demonstrates string manipulation. Strings are a fundamental data type in Python, and there are many built-in functions and methods for manipulating and formatting strings.
+
+Here's a simple Python program that demonstrates some common string manipulation techniques:
+
+```python
+# Define a string
+my_string = "Hello, World!"
+
+# Access a character in the string
+print(my_string[0])
+
+# Access a substring
+print(my_string[7:11])
+
+# Check if a string contains a substring
+print("World" in my_string)
+
+# Convert a string to uppercase
+print(my_string.upper())
+
+# Convert a string to lowercase
+print(my_string.lower())
+
+# Replace a substring
+print(my_string.replace("World", "Python"))
+
+# Format a string
+name = "Meghana"
+print("Hello, {}!".format(name))
+```
+
+In this program, we define a string `my_string` and then demonstrate the following string manipulation techniques:
+
+* Accessing a character in the string using the index operator `[]`.
+* Accessing a substring using slicing notation `[]`.
+* Checking if a string contains a substring using the `in` keyword.
+* Converting a string to uppercase using the `upper()` method.
+* Converting a string to lowercase using the `lower()` method.
+* Replacing a substring using the `replace()` method.
+* Formatting a string using the `format()` method.
+
+These are just a few of the many string manipulation techniques available in Python. I hope this helps! Let me know if you have any questions or if there's anything else I can assist you with.

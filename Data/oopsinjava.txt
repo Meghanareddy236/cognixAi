@@ -1,0 +1,38 @@
+In Java programming, "oops" stands for Object-Oriented Programming System. Object-Oriented Programming (OOP) is a programming paradigm that uses objects to design applications and software. Java is an example of an OOP language.
+
+OOP is based on several key concepts:
+
+1. Objects: Objects are instances of classes that have states (data) and behaviors (methods).
+2. Classes: Classes are blueprints for creating objects. They define the data and methods that the objects can have.
+3. Inheritance: Inheritance allows a class to inherit properties and methods from another class.
+4. Polymorphism: Polymorphism allows a method to behave differently depending on the object it is called on.
+5. Encapsulation: Encapsulation is the practice of hiding the implementation details of an object from the outside world.
+
+In Java, these concepts are implemented using classes, objects, methods, and variables. By using OOP, Java provides a more structured and reusable way of programming, making it easier to maintain and modify applications.
+
+Here's an example of a simple Java class that demonstrates the OOP concepts:
+```csharp
+public class Dog {
+    private String name;
+    private int age;
+
+    public Dog(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
+    public void bark() {
+        System.out.println("Woof woof!");
+    }
+
+    public void printDetails() {
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+    }
+}
+```
+In this example, the class `Dog` has two private variables `name` and `age`, and two methods `bark()` and `printDetails()`. The constructor `Dog(String name, int age)` initializes the `name` and `age` variables.
+
+The `bark()` method prints the string "Woof woof!" to the console, and the `printDetails()` method prints the name and age of the dog to the console.
+
+By using OOP concepts, this class can be used to create objects that represent different dogs, each with their own name and age. The `bark()` and `printDetails()` methods can be called on these objects to make them perform different actions.

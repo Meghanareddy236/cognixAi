@@ -1,0 +1,26 @@
+Hello Meghana,
+
+Sure, I can help you write a Python code to find the factorial of two numbers. The factorial of a number is the product of all positive integers less than or equal to that number. Here is a simple Python code that takes two numbers as input and calculates their factorial:
+
+```python
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+
+fact1 = factorial(num1)
+fact2 = factorial(num2)
+
+print("The factorial of", num1, "is", fact1)
+print("The factorial of", num2, "is", fact2)
+```
+
+In this code, we define a recursive function `factorial(n)` that calculates the factorial of a number `n`. The function calls itself with the argument `n-1` until `n` is 0, at which point it returns 1.
+
+Then, we take two numbers as input from the user and calculate their factorial using the `factorial()` function. Finally, we print the factorial of each number.
+
+I hope this helps! Let me know if you have any questions or if there's anything else I can assist you with.

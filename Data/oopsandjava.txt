@@ -1,0 +1,19 @@
+Sure, I can help you with Java code as well! Do you have a specific question or problem that you would like me to help you with? Here is a simple Java program that prints "Hello, World!" to the console:
+```
+public class HelloWorld {
+  public static void main(String[] args) {
+    System.out.println("Hello, World!");
+  }
+}
+```
+To run this program, you will need to have a Java development environment set up on your computer. You can download the Java Development Kit (JDK) for free from the Oracle website. Once you have the JDK installed, you can compile and run the program using the `javac` and `java` commands, respectively.
+
+For example, to compile the program, you would open a terminal or command prompt and navigate to the directory where the program is saved, then run the following command:
+```
+javac HelloWorld.java
+```
+This will create a file called `HelloWorld.class` in the same directory. To run the program, you would then run the following command:
+```
+java HelloWorld
+```
+This will print "Hello, World!" to the console. I hope this helps! Let me know if you have any other questions about Java.

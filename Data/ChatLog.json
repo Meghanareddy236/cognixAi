@@ -1,0 +1,74 @@
+[
+    {
+        "role": "user",
+        "content": "What are you capable of doing?"
+    },
+    {
+        "role": "assistant",
+        "content": "Answer"
+    },
+    {
+        "role": "user",
+        "content": "Task you cannot make for me and what makes you different from other ai assistance just provide in a concise manner?"
+    },
+    {
+        "role": "assistant",
+        "content": "Answer"
+    },
+    {
+        "role": "user",
+        "content": "Current date and time."
+    },
+    {
+        "role": "assistant",
+        "content": "Answer"
+    },
+    {
+        "role": "user",
+        "content": "Can you tell me a joke or some fun facts?"
+    },
+    {
+        "role": "assistant",
+        "content": "Answer"
+    },
+    {
+        "role": "user",
+        "content": "321."
+    },
+    {
+        "role": "assistant",
+        "content": "Answer"
+    },
+    {
+        "role": "user",
+        "content": "What is the meaning of benevolent?"
+    },
+    {
+        "role": "assistant",
+        "content": "Answer"
+    },
+    {
+        "role": "user",
+        "content": "How and you understand natural language?"
+    },
+    {
+        "role": "assistant",
+        "content": "Answer"
+    },
+    {
+        "role": "user",
+        "content": "Translate you are awesome to french."
+    },
+    {
+        "role": "assistant",
+        "content": "Answer"
+    },
+    {
+        "role": "user",
+        "content": "You are doing well."
+    },
+    {
+        "role": "assistant",
+        "content": "Answer"
+    }
+]
